@@ -8,18 +8,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Vitali Polikov
-    text: >+
+    text: >
       a passionate web developer dedicated to creating dynamic and responsive
       web applications. With a strong foundation in HTML, CSS, JavaScript, and
       frameworks like React and Node.js, I thrive on turning ideas into
       functional and user-friendly websites. My goal is to deliver high-quality
       code and seamless user experiences while continuously learning and
-      adapting to new technologies. I believe in the power of collaboration and
-      innovation, and I’m excited to take on new challenges in the ever-evolving
-      world of web development.
-
-
-
+      adapting to new technologies.
     actions:
       - label: Get started
         altText: ''
