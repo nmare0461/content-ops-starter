@@ -16,7 +16,7 @@ sections:
       code and seamless user experiences while continuously learning and
       adapting to new technologies.
     actions:
-      - label: Get started
+      - label: My Resume
         altText: ''
         url: /
         showIcon: false
